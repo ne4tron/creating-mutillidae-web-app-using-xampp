@@ -1,0 +1,11 @@
+*.log
+*.bak
+*.tmp
+*.swp
+*.db
+*.sqlite
+*.pid
+.env
+__pycache__/
+.DS_Store
+*.gz
